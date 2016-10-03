@@ -1,0 +1,17 @@
+FonctionTresUtilie(Int var)
+{
+	var = 1;
+}
+
+
+FonctionMoinsUtile(Int var)
+{
+	var++;
+	--utilite; // doit se décrémenter après la variable var
+}
+
+OnTriggerEnter2D(Collider other)
+{
+	if(other.gameobject.name == "Nicholas")
+		this.destroy();
+}
