@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+test pull.
+Le pull a fonctionn�
+=======
+/* Fichier Text Pull ! */
+/* -- Utilisé pour vérifier que la commande pull fonctionne bien sur l'ordinateur d'un collègue -- */
+/* Créé et modifié le 03-10-16 */
+
+
+test pull.
+>>>>>>> origin/master
