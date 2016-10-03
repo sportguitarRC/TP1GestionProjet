@@ -9,3 +9,9 @@ FonctionMoinsUtile(Int var)
 	utilitee--;
 	var++;
 }
+
+FonctionVraimentPasUtile(Int var)
+{
+	var--;
+	var++;
+}
