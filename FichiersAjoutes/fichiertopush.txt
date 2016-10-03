@@ -14,4 +14,6 @@ OnTriggerEnter2D(Collider other)
 {
 	if(other.gameobject.name == "Nicholas")
 		this.destroy();
+	else if
+		this.love();
 }
