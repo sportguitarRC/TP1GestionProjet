@@ -1,0 +1,11 @@
+FonctionTresUtilie(Int var)
+{
+	var = 1;
+}
+
+
+FonctionMoinsUtile(Int var)
+{
+	utilitee--;
+	var++;
+}
